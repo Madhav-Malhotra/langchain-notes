@@ -11,3 +11,4 @@ They're useful for me as **a reference to look back on**. If you're learning abo
 - `l5_loaders.py`: shows how to load external documents like Youtube transcripts.
 - `l5_loader_chain.py`: shows how to use prebuilt load summarise chains with news article loaders. 
 - `l6_frontend.py` and `l6_vectorstore.py`: example app with a streamlit frontend and FAISS vectorstore that answers questions about a Youtube video using its transcript. 
+- `l7_memory.py`: shows how to create a chatbot that can remember conversation history.
